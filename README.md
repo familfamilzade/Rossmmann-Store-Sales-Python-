@@ -1,2 +1,3 @@
 # Rossmmann-Store-Sales
 Data Science / Machine Learning project
+The test and train datasets can be taken from the website: https://www.kaggle.com/c/rossmann-store-sales/data
